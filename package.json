@@ -1,5 +1,5 @@
 {
-  "name": "sox.js",
+  "name": "@noblesam/sox.js",
   "version": "2.0.1",
   "description": "Use the SoX audio utility in node!",
   "main": "index.js",
